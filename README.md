@@ -5,9 +5,9 @@ How to run the app
 1) Initialize the MySQL DB
 
 Run the following scripts one by one given in "queries.sql" file
+
+
 -----------------------------------------------------
-
-
 
 2) Run the application
 
